@@ -1,0 +1,11 @@
+# Formatting
+black
+# General
+numpy
+sympy
+scipy
+# Plotting
+matplotlib
+# Interface
+ipykernel
+jupyterlab
