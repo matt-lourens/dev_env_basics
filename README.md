@@ -1,5 +1,5 @@
 # Work Environment
-
+<!-- https://github.com/matt-lourens/dev_env_basics -->
 ## VS Code
 
 A code editor. It's free, open source, and runs everywhere (even your Ipad).
@@ -118,6 +118,11 @@ Git track changes
 ### Note taking
 
 Markdown is powerful
+
+Code Spell Checker
+Markdown+Math
+markdownlint
+
 <!-- Iframe for this gif https://en.wikipedia.org/wiki/File:Fundamental_theorem_of_calculus_(animation_).gif -->
 
 Visualise vector addition:
