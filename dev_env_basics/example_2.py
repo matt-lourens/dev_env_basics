@@ -2,9 +2,6 @@ import numpy as np
 from sympy import symbols, lambdify
 
 def factorial(n, symbolic=False):
-    """
-    Calculate the factorial of a number. If symbolic is True, return a sympy expression.
-    """
     if symbolic:
         ns = symbols(f"{n}")
     else:
