@@ -98,6 +98,8 @@ Code Generation:Function that gets the ground state of a given Hamiltonian H
   Binomial: The latex for this function is
 - Relative Imports
 - Debugging
+- Version Control
+- Pair Coding ctrl+shift+p -> Live Share: Start Collaboration Session
 
 ### Writing
 
@@ -136,7 +138,3 @@ Visualise vector addition:
 
 Visualise projection:
 <!-- <iframe scrolling="no" title="Projection+Orthornormal basis" src="https://www.geogebra.org/material/iframe/id/tjhd7ege/width/1920/height/916/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/false" width="1920px" height="916px" style="border:0px;"> </iframe> -->
-
-### Pair programming
-
-ctrl+shift+p -> Live Share: Start Collaboration Session
